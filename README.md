@@ -11,7 +11,8 @@ Welcome to My profile!
 - 🗨️ Feel free to ask about JavaScript, HTML, and CSS, or any other aspect of web development.
 - 🌟 Fun Fact: I enjoy a relaxing cup of tea while coding, but I'm not one to turn down a good cup of coffee either!
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=el-masterio&label=Profile views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=el-masterio&label=Profile%20views&color=0e75b6&style=flat)" alt="el-masterio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=el-masterio&label=Profile%20views&color=0e75b6&style=flat" alt="el-masterio" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
