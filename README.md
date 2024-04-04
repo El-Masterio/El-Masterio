@@ -4,7 +4,7 @@
 Welcome to My profile!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<a    href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7862E&random=false&width=435&lines=Front+End+Developer;Problem+Solver;Quick+Learner](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7862E&random=false&width=435&lines=Front+End+Developer;Problem+Solver;Quick+Learner)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7862E&random=false&width=435&lines=Front+End+Developer;Problem+Solver;Quick+Learner" alt="Typing SVG" /></a>
 
 - 🌱 Junior Front End Developer
 - 💻 Eager to explore the latest in web development tech!
