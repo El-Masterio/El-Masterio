@@ -7,10 +7,7 @@ Welcome to My profile!
 <img  align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7862E&random=false&width=435&lines=Front+End+Developer;Problem+Solver;Quick+Learner" alt="Typing SVG" /></a>
 
-- 🌱 Junior Front End Developer
-- 💻 Eager to explore the latest in web development tech!
-- 🗨️ Feel free to ask about JavaScript, HTML, and CSS, or any other aspect of web development.
-- 🌟 Fun Fact: I enjoy a relaxing cup of tea while coding, but I'm not one to turn down a good cup of coffee either!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-masterio&label=Profile%20views&color=0e75b6&style=flat" alt="el-masterio" /> </p>
 
